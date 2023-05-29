@@ -1,4 +1,4 @@
-# Jaime's Black Jack
+# Black Jack Demo
 Hello!
 
 Thank you for taking the time to look at my project. My name is Jaime Fleishauer, and I am a recent graduate. 
